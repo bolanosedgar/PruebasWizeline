@@ -1,3 +1,3 @@
 # PruebasWizeline
 
-Lienas de Codigo 
+Lineas de Codigo 
